@@ -35,7 +35,7 @@ params:
   title: Hello! I'm Ben.
   description: All of my analytics projects in one place.
   images:
-  - images/home-page.jpg
+  - images/home-page.png
 menu:
   main:
     - name: Posts
