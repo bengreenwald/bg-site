@@ -12,6 +12,7 @@ author:
 blackfriday: {}
 taxonomies:
   tag: tags
+GoogleAnalyticsID: G-NCTZ4XWF6X
 googleAnalytics: G-NCTZ4XWF6X
 params:
   code_copy_button: yes
