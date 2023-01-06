@@ -1,5 +1,6 @@
 ---
 title: "Exploring Scotch Whisky, Part 3: Mapping Distilleries & Regions"
+description: "Part 3 of a journey through data to discover my next bottle of scotch."
 date: 2021-06-18
 draft: false
 images:

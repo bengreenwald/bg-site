@@ -1,5 +1,6 @@
 ---
 title: "COVID-19 State Grades Dashboard"
+description: "I designed an interactive dashboard to visualize how well U.S. states report their COVID-19 data."
 date: 2021-02-09
 draft: false
 images:

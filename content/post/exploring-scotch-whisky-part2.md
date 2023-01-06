@@ -1,5 +1,6 @@
 ---
 title: "Exploring Scotch Whisky, Part 2: Exploratory Data Analysis"
+description: "Part 2 of a journey through data to discover my next bottle of scotch."
 date: 2021-04-25
 draft: false
 images:

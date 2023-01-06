@@ -31,6 +31,11 @@ params:
     - name: linkedin
       url: https://www.linkedin.com/in/bengreenwald/
   themeColor: '#494f5c'
+  # for Open Graph on Home, About, and Post list
+  title: Hello! I'm Ben.
+  description: All of my analytics projects in one place.
+  images:
+  - images/home-page.jpg
 menu:
   main:
     - name: Posts

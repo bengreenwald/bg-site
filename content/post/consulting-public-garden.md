@@ -1,8 +1,8 @@
 ---
 title: "Public Garden Mailchimp Dashboard"
+description: "I analyzed and visualized email marketing and customer engagement data to guide communication strategies."
 date: 2022-02-02
 draft: false
-description: "This is a test description."
 images:
   - images/consulting-wave-hill/dashboard.png
 tags: 

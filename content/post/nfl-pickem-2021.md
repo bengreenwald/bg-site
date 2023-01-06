@@ -1,5 +1,6 @@
 ---
 title: "NFL Pick'Em 2021 League Dashboard"
+description: "I created an interactive dashboard to analyze and visualize team performance in my NFL Pick’Em league."
 date: 2022-01-16
 draft: false
 images:

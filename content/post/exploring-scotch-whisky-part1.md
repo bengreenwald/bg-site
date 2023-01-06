@@ -1,5 +1,6 @@
 ---
 title: "Exploring Scotch Whisky, Part 1: Building the Dataset"
+description: "Part 1 of a journey through data to discover my next bottle of scotch."
 date: 2021-03-01
 draft: false
 images:
