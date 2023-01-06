@@ -2,6 +2,7 @@
 title: "Public Garden Mailchimp Dashboard"
 date: 2022-02-02
 draft: false
+description: "This is a test description."
 images:
   - images/consulting-wave-hill/dashboard.png
 tags: 
