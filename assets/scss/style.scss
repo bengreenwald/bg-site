@@ -47,6 +47,7 @@ select,
 textarea {
   color: $text;
   font-family: $fonts;
+  font-size: 1.1em;
 }
 
 pre,
@@ -488,6 +489,7 @@ p.img-404 {
 
   .post-item {
     border-bottom: 1px $highlight-grey dashed;
+    font-size: 1.1em;
 
     a {
       display: flex;

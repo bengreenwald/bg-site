@@ -3,6 +3,8 @@ title: "Exploring Scotch Whisky, Part 3: Mapping Distilleries & Regions"
 date: 2021-06-18
 draft: false
 featuredImg: ""
+images:
+  - images/exploring-scotch-whisky-part3/isle-of-skye.jpg
 tags: 
   - analysis
   - r
