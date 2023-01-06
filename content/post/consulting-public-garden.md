@@ -2,7 +2,8 @@
 title: "Public Garden Mailchimp Dashboard"
 date: 2022-02-02
 draft: false
-featuredImg: ""
+images:
+  - images/consulting-wave-hill/dashboard.png
 tags: 
   - analysis
   - design

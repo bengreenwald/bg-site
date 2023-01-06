@@ -2,7 +2,8 @@
 title: "COVID-19 State Grades Dashboard"
 date: 2021-02-09
 draft: false
-featuredImg: ""
+images:
+  - images/covid19-state-grades/dashboard.jpg
 tags: 
   - design
 ---

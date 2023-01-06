@@ -2,7 +2,8 @@
 title: "Exploring Scotch Whisky, Part 1: Building the Dataset"
 date: 2021-03-01
 draft: false
-featuredImg: ""
+images:
+  - images/exploring-scotch-whisky-part1/glengoyne-front.jpg
 tags: 
   - analysis
   - r

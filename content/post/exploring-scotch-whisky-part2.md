@@ -2,7 +2,8 @@
 title: "Exploring Scotch Whisky, Part 2: Exploratory Data Analysis"
 date: 2021-04-25
 draft: false
-featuredImg: ""
+images:
+  - images/exploring-scotch-whisky-part2/glenfiddich-front.jpg
 tags: 
   - analysis
   - r

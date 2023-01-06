@@ -2,7 +2,8 @@
 title: "NFL Pick'Em 2021 League Dashboard"
 date: 2022-01-16
 draft: false
-featuredImg: ""
+images:
+  - images/nfl-pickem-2021/dashboard.jpg
 tags:
   - analysis
   - design
