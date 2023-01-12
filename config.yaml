@@ -12,9 +12,9 @@ author:
 blackfriday: {}
 taxonomies:
   tag: tags
-GoogleAnalyticsID: G-NCTZ4XWF6X
-googleAnalytics: G-NCTZ4XWF6X
 params:
+  GoogleAnalyticsID: G-NCTZ4XWF6X
+# googleAnalytics: G-NCTZ4XWF6X #from the old templates
   code_copy_button: yes
   dateform: Jan 2, 2006
   dateformNum: '2006-01-02'
